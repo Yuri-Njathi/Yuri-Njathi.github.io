@@ -5,13 +5,12 @@
 ### Category Name 1 
 
 [Using IOT and Macchine Learning to help protect Kenya's Rivers (part of the team)](/sample_page)
-<img src="images/river_monitoring_proj.png?raw=true"/>
+<img src="images/river_monitoring_proj.png?raw=true"/> [Link to Project details](http://ciirawamaina.com/blog/2020-06-06-post.html)
 <!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
-<!--
 ### Category Name 2
 
 - [Link to Project](http://ciirawamaina.com/blog/2020-06-06-post.html)
