@@ -4,27 +4,17 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Using IOT and Macchine Learning to help protect Kenya's Rivers (part of the team)](/sample_page)
+<img src="images/river_monitoring_proj.png?raw=true"/>
+<!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
+-->
+<!--
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Link to Project](http://ciirawamaina.com/blog/2020-06-06-post.html)
 ---
 
 
